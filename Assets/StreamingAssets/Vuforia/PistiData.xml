@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="bos-a4-carpi-2" size="256.000000 362.272278" />
+    <ImageTarget name="bos-a4-carpi" size="256.000000 362.272278" />
+    <ImageTarget name="bos-a4-kagidi" size="256.000000 362.272278" />
+    <ImageTarget name="chester" size="256.000000 341.333344" />
+    <ImageTarget name="p2000" size="512.000000 1010.326416" />
+  </Tracking>
+</QCARConfig>
